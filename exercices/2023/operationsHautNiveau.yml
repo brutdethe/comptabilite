@@ -1,1 +1,9 @@
-
+- type: Envoi facture client
+  numéroFacture: "7"
+  date: 2023-07-06T10:27:40.998Z
+  compteClient: 4111C1
+  identifiantOpération: 12mde1a6gco
+  lignes:
+    - compteProduit: "706"
+      montantHT: 243
+      tauxTVA: 0
